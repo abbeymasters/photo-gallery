@@ -12,7 +12,7 @@ test('normalizes whitespace', (assert) => {
 
     const expected = /*html*/`
         <div>
-                <span>hello</span>
+              <span>hello</span>
         </div>
     `;
 
